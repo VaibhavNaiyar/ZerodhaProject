@@ -1,3 +1,20 @@
 1. create folder for project in that create backend folder
 2. now create to create frontend use command 
   npx create-react-app frontend
+3. delete unwanted stuff 
+4. initialise git so that we can revert back to our last commit if we did something wrong 
+	git init 
+	git add .
+	git commit -m "Initial Setup"   
+(git config --global core.autocrlf true)- used this command becauseIf you work with a team using different OS (Windows, Linux, macOS), inconsistent line endings might cause unnecessary file changes, making git diff confusing
+Now to create branch 
+	git checkout -b project-structure
+
+
+5 .  Now we will create components (reuse krne vali chize )
+	-Navbar
+	-Footer  ... etc
+
+6.Structure 
+	(creating folder for the component)
+	
