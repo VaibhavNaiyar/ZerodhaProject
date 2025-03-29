@@ -17,4 +17,11 @@ Now to create branch
 
 6.Structure 
 	(creating folder for the component)
-	
+7.  git checkout -b home-component
+sabh me import of fnc create krne ke baad 
+abh styling  krenge 
+
+8. Styling ke liye Bootstrap use krenge 
+icons ke liye font awsome
+
+9. completed home page setup and now we are going to setup routing 
